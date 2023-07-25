@@ -1,4 +1,4 @@
-const Database = require('./Database')
+4const Database = require('./Database')
 
 module.exports = class Contact {
     constructor() {}
