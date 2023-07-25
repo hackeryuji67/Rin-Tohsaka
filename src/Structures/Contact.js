@@ -75,5 +75,5 @@ module.exports = class Contact {
 }
 
 /**
- * @typedef {import('@adiwajshing/baileys').Contact} contact
+ * @typedef {import('@whiskeysockets/baileys').Contact} contact
  */
