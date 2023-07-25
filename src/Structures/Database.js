@@ -115,5 +115,5 @@ module.exports = class Database {
  */
 
 /**
- * @typedef {import('@adiwajshing/baileys').Contact} contact
+ * @typedef {import('@whiskeysockets/baileys').Contact} contact
  */

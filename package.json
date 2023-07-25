@@ -22,15 +22,16 @@
     "url": "https://github.com/Toshi-san001/Rin-Tohsaka.git"
   },
   "dependencies": {
-    "@adiwajshing/baileys": "https://github.com/Eximinati/Baileys-.git",
     "@adiwajshing/eslint-config": "https://github.com/Eximinati/eslint-config.git",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "@hapi/boom": "^10.0.0",
     "@shineiichijo/marika": "^2.0.3",
+    "@whiskeysockets/baileys": "^6.4.0",
     "axios": "^0.27.2",
     "canvacord": "5.2.3",
     "chalk": "4.1.1",
     "dotenv": "^16.0.1",
+    "eslint": "^8.45.0",
     "express": "^4.18.1",
     "fs-extra": "^10.1.0",
     "link-preview-js": "^2.1.15",
